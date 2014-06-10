@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<notebook>
+	<category title="a category">
+		<note>
+			<title>A note</title>
+			<contents>The contents of note</contents>
+			<id>1</id> 
+		</note>
+		<timeline title="title of a timeline" id="3">
+			<timelineEntry>
+				<title>A timeline entry</title>
+				<date>12.04.2006</date>
+				<contents>Something happened</contents>
+				<id>2</id> <!-- Unique id-->
+			</timelineEntry>
+		</timeline>
+	</category>
+</notebook>

@@ -1,0 +1,4 @@
+ToDo:
+Back and next buttons on Timeline gui
+Able to set scale on timeline gui
+Make the damn thing compile:)
